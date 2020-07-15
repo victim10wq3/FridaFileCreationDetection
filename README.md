@@ -1,6 +1,6 @@
 This script will grab the file path arguement when fileOutputStream is called. 
 
-** Example for androids default web browser ## 
+**Example for androids default web browser**
 
 `frida -U -f com.android.browser -l fileread.js --no-paus`
 
